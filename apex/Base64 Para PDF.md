@@ -4,7 +4,6 @@ Converter Base64 em um PDF
 
 ## Codigo
 
-
 ```bash
 Attachment attach = new Attachment();
 attach.contentType = 'application/pdf';
